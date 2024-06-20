@@ -23,6 +23,9 @@
 ---
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50" height="50">
 <img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" height="50">
+<div style="background: linear-gradient(to right, #ff0000, #ff9900, #ffff00, #99ff00, #00ff00); width: 80%; height: 20px; border-radius: 4px;">
+</div>
+<span>80% Proficient</span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab Logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala logo" width="50" height="50">
