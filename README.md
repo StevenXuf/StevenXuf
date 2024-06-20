@@ -1,4 +1,4 @@
-# Hi there! 👋 Glad you find my page!
+# Hi there! 👋 Glad you find my page! :smile:
 
 
 - 🔭 I’m currently a Ph.D. candidate at University of Luxembourg.
@@ -12,7 +12,7 @@
 - Northwest University, B. Sc. in Financial Mathematics and Statistics
 
 ## Skills
-- Python: proficient
+- Python ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) : proficient
 - R: proficient
 - MATLAB: proficient
 - SQL: proficient
