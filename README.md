@@ -21,11 +21,11 @@
 - Scala: familiar
 - C++: fundamental
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="110" height="80">
-<img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="80" height="80">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="110" height="80">
+<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" width="80" height="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="80" height="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab Logo" width="80" height="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL logo" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL logo" width="80" height="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala logo" width="90" height="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark logo" width="80" height="80">
 </div>
