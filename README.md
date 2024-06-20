@@ -22,7 +22,7 @@
 - C++: fundamental
 ---
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-![R Logo](https://www.r-project.org/Rlogo.png)
+<img src="https://www.r-project.org/Rlogo.png" alt="R Logo" width="50" height="50">
 ![MATLAB Logo](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
 ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
 ![Scala Logo](https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg)
