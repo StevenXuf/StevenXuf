@@ -21,7 +21,7 @@
 - Scala: familiar
 - C++: fundamental
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="110" height="80">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="110" height="100">
 <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" width="80" height="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="80" height="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab Logo" width="80" height="80">
