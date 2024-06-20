@@ -12,21 +12,24 @@
 - Northwest University, B. Sc. in Financial Mathematics and Statistics
 
 ## Skills
-- Python ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) : proficient
+- Python: proficient
 - R: proficient
-- ![R Logo](https://www.r-project.org/Rlogo.png)
-
-<div style="background-color: #f0f0f0; width: 100%; border-radius: 4px;">
-  <div style="background-color: #76c7c0; width: 80%; padding: 4px; border-radius: 4px;">
-    Familiar to Proficient
-  </div>
-</div>
 - MATLAB: proficient
 - SQL: proficient
 - Spark: proficient
 - Java: familiar
 - Scala: familiar
 - C++: fundamental
+---
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![R Logo](https://www.r-project.org/Rlogo.png)
+![MATLAB Logo](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
+![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+![Scala Logo](https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg)
+![Spark Logo](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![Java Logo](https://www.oracle.com/a/tech/img/cb88-java-logo.png)
+---
 
 ## Foreign Languages
 - English: C2
