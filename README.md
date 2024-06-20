@@ -14,6 +14,13 @@
 ## Skills
 - Python ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) : proficient
 - R: proficient
+- ![R Logo](https://www.r-project.org/Rlogo.png)
+
+<div style="background-color: #f0f0f0; width: 100%; border-radius: 4px;">
+  <div style="background-color: #76c7c0; width: 80%; padding: 4px; border-radius: 4px;">
+    Familiar to Proficient
+  </div>
+</div>
 - MATLAB: proficient
 - SQL: proficient
 - Spark: proficient
