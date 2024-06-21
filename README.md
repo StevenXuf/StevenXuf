@@ -1,7 +1,7 @@
 # Hi there! 👋 Glad you find my page! :smile:
 
 
-- 🔭 I’m currently a Ph.D. candidate at University of Luxembourg.
+- 🔭 I’m currently a Ph.D. candidate at [University of Luxembourg](https://www.uni.lu/en/).
 - 🌱 I’m currently doing research in Multimodal Machine Learning.
 - 👯 I’m looking to collaborate on scientific papers concerning Machine Learning/ Deep Learning/ Statistics that have possiblility to be published.
 - 📫 Reach me via E-mail: fan.xu@uni.lu.
@@ -16,7 +16,7 @@
 <a href="https://www.nwu.edu.cn"><img src="logos/northwest.png" alt="Northwest logo" width="80" height="80"></a>
 </div>
 
-## Skills
+## :toolbox: Skills
 - Python: proficient
 - R: proficient
 - MATLAB: proficient
@@ -41,10 +41,10 @@
 <a href="https://www.latex-project.org"><img src="logos/latex.svg" alt="Latex logo" width="80" height="80"></a>
 </div>
 
-## Foreign Languages
+## :speaking_head: Foreign Languages
 - English: C2
 - German: B1
 - Japanese: N2
 
-## Publications
+## :page_facing_up: Publications
 1. Learning to Align Multimodal Representations, 2024. (under review)
