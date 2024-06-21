@@ -29,7 +29,7 @@
 <a href="https://www.postgresql.org"><img src="logos/postgresql.svg" alt="SQL logo" width="80" height="80"></a>
 <a href="https://www.scala-lang.org"><img src="logos/scala.svg" alt="Scala logo" width="80" height="80"></a>
 <a href="https://spark.apache.org"><img src="logos/spark.svg" alt="Spark logo" width="80" height="80"></a>
-<a href="https://www.markdownguide.org">img src="logos/markdown.svg" alt="Markdown logo" width="80" height="80"></a>
+<a href="https://www.markdownguide.org"><img src="logos/markdown.svg" alt="Markdown logo" width="80" height="80"></a>
 </div>
 
 ## Foreign Languages
