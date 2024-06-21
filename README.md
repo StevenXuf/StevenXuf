@@ -10,6 +10,11 @@
 - University of Luxembourg, Ph.D. candidate
 - Technical University of Munich, M. Sc. in Mathematics in Data Science
 - Northwest University, B. Sc. in Financial Mathematics and Statistics
+<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
+<a href="https://www.uni.lu/en/"><img src="logos/unilu.svg" alt="UniLU logo" width="80" height="80"></a>
+<a href="https://www.tum.de"><img src="logos/tum.svg" alt="TUM logo" width="80" height="80"></a>
+<a href="https://www.nwu.edu.cn"><img src="logos/northwest.png" alt="Northwest logo" width="80" height="80"></a>
+</div>
 
 ## Skills
 - Python: proficient
@@ -30,7 +35,10 @@
 <a href="https://www.scala-lang.org"><img src="logos/scala.svg" alt="Scala logo" width="80" height="80"></a>
 <a href="https://spark.apache.org"><img src="logos/spark.svg" alt="Spark logo" width="80" height="80"></a>
 <a href="https://www.markdownguide.org"><img src="logos/markdown.svg" alt="Markdown logo" width="80" height="80"></a>
-<a href="https://www.latex-project.org"><img src="logos/latex.svg" alt="Markdown logo" width="80" height="80"></a>
+<a href="https://html.com"><img src="logos/html.svg" alt="Html logo" width="80" height="80"></a>
+<a href="https://www.javascript.com"><img src="logos/javascript.svg" alt="JavaScript logo" width="80" height="80"></a>
+<a href="https://html.com"><img src="logos/css.svg" alt="CSS logo" width="80" height="80"></a>
+<a href="https://www.latex-project.org"><img src="logos/latex.svg" alt="Latex logo" width="80" height="80"></a>
 </div>
 
 ## Foreign Languages
