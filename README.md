@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on scientific papers concerning Machine Learning/ Deep Learning/ Statistics that have possiblility to be published.
 - 📫 Reach me via E-mail: fan.xu@uni.lu.
 
-## Education Background
+## :school: Education Background
 - University of Luxembourg, Ph.D. candidate
 - Technical University of Munich, M. Sc. in Mathematics in Data Science
 - Northwest University, B. Sc. in Financial Mathematics and Statistics
