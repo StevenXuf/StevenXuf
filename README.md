@@ -41,9 +41,9 @@
 </div>
 
 ## :speaking_head: Foreign Languages
-- English: C2 ![Static Badge](https://img.shields.io/badge/English_Level-C2-red)
-- German: B1 ![Static Badge](https://img.shields.io/badge/German_Level-B1-blue)
-- Japanese: N2 ![Static Badge](https://img.shields.io/badge/Japanese_Level-N2-white)
+![Static Badge](https://img.shields.io/badge/English_Level-C2-red)
+![Static Badge](https://img.shields.io/badge/German_Level-B1-blue)
+![Static Badge](https://img.shields.io/badge/Japanese_Level-N2-white)
 
 ## :page_facing_up: Publications
 1. Learning to Align Multimodal Representations, 2024. (under review)
