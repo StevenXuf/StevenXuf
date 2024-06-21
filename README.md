@@ -40,7 +40,8 @@
 <a href="https://www.latex-project.org"><img src="logos/latex.svg" alt="Latex logo" width="80" height="80"></a>
 </div>
 
-## :speaking_head: Foreign Languages
+## :speaking_head: Languages
+![Static Badge](https://img.shields.io/badge/Chinese_Level-Native-yellow)
 ![Static Badge](https://img.shields.io/badge/English_Level-C2-red)
 ![Static Badge](https://img.shields.io/badge/German_Level-B1-blue)
 ![Static Badge](https://img.shields.io/badge/Japanese_Level-N2-white)
