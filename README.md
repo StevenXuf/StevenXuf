@@ -41,10 +41,10 @@
 </div>
 
 ## :speaking_head: Languages
-![Static Badge](https://img.shields.io/badge/Chinese_Level-Native-yellow)
-![Static Badge](https://img.shields.io/badge/English_Level-C2-red)
-![Static Badge](https://img.shields.io/badge/German_Level-B1-blue)
-![Static Badge](https://img.shields.io/badge/Japanese_Level-N2-white)
+![Chinese level](https://img.shields.io/badge/Chinese_Level-Native-red)
+![English level](https://img.shields.io/badge/English_Level-C2-blue)
+![German level](https://img.shields.io/badge/German_Level-B1-yellow)
+![Japanese level](https://img.shields.io/badge/Japanese_Level-N2-white)
 
 ## :page_facing_up: Publications
 1. Learning to Align Multimodal Representations, 2024. (under review)
