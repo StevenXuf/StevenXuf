@@ -1,15 +1,14 @@
 # Hi there! 👋 Glad you find my page! :smile:
 
-
 - 🔭 I’m currently a Ph.D. candidate at [University of Luxembourg](https://www.uni.lu/en/).
 - 🌱 I’m currently doing research in Multimodal Machine Learning.
 - 👯 I’m looking to collaborate on scientific papers concerning Machine Learning/ Deep Learning/ Statistics that have possiblility to be published.
 - 📫 Reach me via E-mail: fan.xu@uni.lu.
 
 ## :school: Education Background
-- University of Luxembourg, Ph.D. candidate in Multimodal Machine Learning
-- Technical University of Munich, M. Sc. in Mathematics in Data Science
-- Northwest University, B. Sc. in Financial Mathematics and Statistics
+- Ph.D. candidate in Multimodal Machine Learning, [University of Luxembourg](https://www.uni.lu/en/)
+- M. Sc. in Mathematics in Data Science, Technical [University of Munich](https://www.tum.de)
+- B. Sc. in Financial Mathematics and Statistics, [Northwest University](https://www.nwu.edu.cn)
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
 <a href="https://www.uni.lu/en/"><img src="logos/unilu.svg" alt="UniLU logo" width="80" height="80"></a>
 <a href="https://www.tum.de"><img src="logos/tum.svg" alt="TUM logo" width="80" height="80"></a>
