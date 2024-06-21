@@ -7,7 +7,7 @@
 - 📫 Reach me via E-mail: fan.xu@uni.lu.
 
 ## :school: Education Background
-- University of Luxembourg, Ph.D. candidate
+- University of Luxembourg, Ph.D. candidate in Multimodal Machine Learning
 - Technical University of Munich, M. Sc. in Mathematics in Data Science
 - Northwest University, B. Sc. in Financial Mathematics and Statistics
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
