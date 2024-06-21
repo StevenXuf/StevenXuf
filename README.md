@@ -25,7 +25,7 @@
 <a href="https://www.java.com/en/"><img src="logos/java.svg" alt="Java logo" width="80" height="80"></a>
 <a href="https://www.r-project.org"><img src="logos/r.svg" alt="R Logo" width="80" height="80"></a>
 <a href="https://isocpp.org"><img src="logos/cpp.svg" alt="C++ logo" width="80" height="80"></a>
-<a href="https://www.mathworks.com/products/matlab.html"><img src="logos/matlab.png" alt="Matlab Logo" width="80" height="80"></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img src="logos/matlab.svg" alt="Matlab Logo" width="80" height="80"></a>
 <a href="https://www.postgresql.org"><img src="logos/postgresql.svg" alt="SQL logo" width="80" height="80"></a>
 <a href="https://www.scala-lang.org"><img src="logos/scala.svg" alt="Scala logo" width="90" height="80"></a>
 <a href="https://spark.apache.org"><img src="logos/spark.svg" alt="Spark logo" width="80" height="80"></a>
