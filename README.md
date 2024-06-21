@@ -7,7 +7,7 @@
 
 ## :school: Education Background
 - Ph.D. candidate in Multimodal Machine Learning, [University of Luxembourg](https://www.uni.lu/en/)
-- M. Sc. in Mathematics in Data Science, Technical [University of Munich](https://www.tum.de)
+- M. Sc. in Mathematics in Data Science, [Technical University of Munich](https://www.tum.de)
 - B. Sc. in Financial Mathematics and Statistics, [Northwest University](https://www.nwu.edu.cn)
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
 <a href="https://www.uni.lu/en/"><img src="logos/unilu.svg" alt="UniLU logo" width="80" height="80"></a>
