@@ -10,7 +10,7 @@
 - M. Sc. in Mathematics in Data Science, [Technical University of Munich](https://www.tum.de)
 - B. Sc. in Financial Mathematics and Statistics, [Northwest University](https://www.nwu.edu.cn)
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
-<a href="https://www.uni.lu/en/"><img src="logos/unilu.svg" alt="UniLU logo" width="80" height="80"></a>
+<a href="https://www.uni.lu"><img src="logos/unilu.svg" alt="UniLU logo" width="80" height="80"></a>
 <a href="https://www.tum.de"><img src="logos/tum.svg" alt="TUM logo" width="80" height="80"></a>
 <a href="https://www.nwu.edu.cn"><img src="logos/northwest.png" alt="Northwest logo" width="80" height="80"></a>
 </div>
