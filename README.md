@@ -9,12 +9,16 @@
 - Ph.D. candidate in Multimodal Machine Learning, [University of Luxembourg](https://www.uni.lu)
 - M. Sc. in Mathematics in Data Science, [Technical University of Munich](https://www.tum.de)
 - B. Sc. in Financial Mathematics and Statistics, [Northwest University](https://www.nwu.edu.cn)
+[![Static Badge](https://img.shields.io/badge/Universit%C3%A9_du_Luxembourg-%2340AEF0?style=for-the-badge&logoColor=%2307C160)](https://www.uni.lu)
+[![Static Badge](https://img.shields.io/badge/Technische_Universit%C3%A4t_M%C3%BCnchen-%230068C8?style=for-the-badge&logoColor=%2307C160)](https://www.tum.de)
+[![Static Badge](https://img.shields.io/badge/%E8%A5%BF_%E5%8C%97_%E5%A4%A7_%E5%AD%A6-%23004088?style=for-the-badge&logoColor=%2307C160)](https://www.nwu.edu.cn)
+<!---
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
 <a href="https://www.uni.lu"><img src="logos/unilu.svg" alt="UniLU logo" width="80" height="80"></a>
 <a href="https://www.tum.de"><img src="logos/tum.svg" alt="TUM logo" width="80" height="80"></a>
 <a href="https://www.nwu.edu.cn"><img src="logos/northwest.png" alt="Northwest logo" width="80" height="80"></a>
 </div>
-
+-->
 ## :toolbox: Skills
 - Python: proficient
 - R: proficient
