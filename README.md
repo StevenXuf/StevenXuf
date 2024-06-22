@@ -17,14 +17,16 @@
 </div>
 -->
 ## :toolbox: Skills
-- Python: proficient
-- R: proficient
-- MATLAB: proficient
-- SQL: proficient
-- Spark: proficient
-- Java: familiar
-- Scala: familiar
-- C++: fundamental
+![Static Badge](https://img.shields.io/badge/Python-Proficient-%23E40000?style=plastic&logo=python&logoColor=%233776AB&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/R_Language-Proficient-%23E40000?style=plastic&logo=r&logoColor=%23276DC3&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/MATLAB-Proficient-%23E40000?style=plastic&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-Proficient-%23E40000?style=plastic&logo=PostgreSQL&logoColor=%234169E1&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/Spark-Proficient-%23E40000?style=plastic&logo=apache%20spark&logoColor=%23E25A1C&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/Java-Farmiliar-%23EF5C55?style=plastic&logo=c%2B%2B&logoColor=%2300599C&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/Scala-Proficient-%23E40000?style=plastic&logo=scala&logoColor=%23DC322F&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-Fundamental-%23F47C00?style=plastic&logo=c%2B%2B&logoColor=%2300599C&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/Markdown-Proficient-%23E40000?style=plastic&logo=markdown&logoColor=%23000000&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/LaTex-Proficient-%23E40000?style=plastic&labelColor=%23E6E6E6)
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
 <a href="https://www.python.org"><img src="logos/python.svg" alt="Python Logo" width="80" height="80"></a>
 <a href="https://www.java.com/en/"><img src="logos/java.svg" alt="Java logo" width="80" height="80"></a>
