@@ -7,8 +7,9 @@
 
 ## :school: Education Background
 [![Static Badge](https://img.shields.io/badge/Universit%C3%A9_du_Luxembourg-Ph.D._Candidate_in_Multimodal_machine_learning-%23FF6384?style=for-the-badge&labelColor=40AEF0)](https://www.uni.lu)\
-[![Static Badge](https://img.shields.io/badge/Technische_Universit%C3%A4t_M%C3%BCnchen-M.Sc._in_Data_Science-%239BF0E1?style=for-the-badge&labelColor=0068C8)](https://www.tum.de)\
+[![Static Badge](https://img.shields.io/badge/Technische_Universit%C3%A4t_M%C3%BCnchen-M.Sc._in_Mathematics_in_Data_Science-%239BF0E1?style=for-the-badge&labelColor=0068C8)](https://www.tum.de)\
 [![Static Badge](https://img.shields.io/badge/%E8%A5%BF_%E5%8C%97_%E5%A4%A7_%E5%AD%A6_(Northwest_University)-B.Sc._in_Financial_Mathematics_and_Statistics-%2364BC4B?style=for-the-badge&labelColor=%23004088)](https://www.nwu.edu.cn)
+[![Static Badge](https://img.shields.io/badge/%E8%A5%BF_%E5%8C%97_%E5%A4%A7_%E5%AD%A6_(Northwest_University)-B.A._in_Japanese_Language_and_Literature-%2364BC4B?style=for-the-badge&labelColor=%23004088)](https://www.nwu.edu.cn)
 <!---
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
 <a href="https://www.uni.lu"><img src="logos/unilu.svg" alt="UniLU logo" width="80" height="80"></a>
