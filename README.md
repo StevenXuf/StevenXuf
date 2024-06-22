@@ -23,7 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/MATLAB-Proficient-%23E40000?style=plastic&labelColor=%23E6E6E6)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-Proficient-%23E40000?style=plastic&logo=PostgreSQL&logoColor=%234169E1&labelColor=%23E6E6E6)
 ![Static Badge](https://img.shields.io/badge/Spark-Proficient-%23E40000?style=plastic&logo=apache%20spark&logoColor=%23E25A1C&labelColor=%23E6E6E6)
-![Static Badge](https://img.shields.io/badge/Java-Farmiliar-%23EF5C55?style=plastic&logo=c%2B%2B&logoColor=%2300599C&labelColor=%23E6E6E6)
+![Static Badge](https://img.shields.io/badge/Java-Familiar-%23EF5C55?style=plastic&logo=c%2B%2B&logoColor=%2300599C&labelColor=%23E6E6E6)
 ![Static Badge](https://img.shields.io/badge/Scala-Proficient-%23E40000?style=plastic&logo=scala&logoColor=%23DC322F&labelColor=%23E6E6E6)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-Fundamental-%23F47C00?style=plastic&logo=c%2B%2B&logoColor=%2300599C&labelColor=%23E6E6E6)
 ![Static Badge](https://img.shields.io/badge/Markdown-Proficient-%23E40000?style=plastic&logo=markdown&logoColor=%23000000&labelColor=%23E6E6E6)
