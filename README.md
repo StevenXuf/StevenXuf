@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a Ph.D. candidate at [University of Luxembourg](https://www.uni.lu).
 - 🌱 I’m currently doing research in Multimodal Machine Learning.
-- 👯 I’m looking to collaborate on scientific papers concerning Machine Learning/ Deep Learning/ Statistics that have possiblility to be published.
+- 👯 Collaborations on scientific papers concerning Machine Learning/ Deep Learning/ Statistics are welcome.
 - 📫 Reach me via [Email](mailto:fan.xu@uni.lu).
 
 ## :school: Education Background
