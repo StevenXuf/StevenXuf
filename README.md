@@ -25,7 +25,7 @@
 - Scala: familiar
 - C++: fundamental
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap;">
-<a href="https://www.python.org"><img src="logos/python.svg" alt="Python Logo" width="110" height="80"></a>
+<a href="https://www.python.org"><img src="logos/python.svg" alt="Python Logo" width="80" height="80"></a>
 <a href="https://www.java.com/en/"><img src="logos/java.svg" alt="Java logo" width="80" height="80"></a>
 <a href="https://isocpp.org"><img src="logos/cpp.svg" alt="C++ logo" width="80" height="80"></a>
 <a href="https://www.r-project.org"><img src="logos/r.svg" alt="R Logo" width="80" height="80"></a>
