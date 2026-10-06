@@ -53,4 +53,6 @@
 ![Japanese level](https://img.shields.io/badge/Japanese_Level-N2-pink?style=for-the-badge)
 
 ## :page_facing_up: Publications
-1. Learning to Align Multimodal Representations, 2024. (under review)
+1. [Learning to Align Multimodal Representations](https://arxiv.org/abs/2506.08774), 2024. (under review)
+2. [Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models](https://arxiv.org/abs/2608.23102), 2026.
+3. [Match Me if You Can: Aligning Historical Posters and Newspaper Articles via Multimodal Deep Learning](https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag088/8711961), 2026.
