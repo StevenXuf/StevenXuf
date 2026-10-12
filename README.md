@@ -1,10 +1,10 @@
-<img align="right" src="assets/fan-xu.jpg" width="220" alt="Fan Xu" />
-
 # Hi, I'm Fan Xu
 
-Ph.D. candidate at the **University of Luxembourg**, working on **multimodal machine learning** for representation alignment, image-text retrieval, composed image retrieval, and cultural heritage applications.
+<img align="right" src="assets/fan-xu.jpg" width="160" alt="Fan Xu" />
 
-I like research questions where vision and language models have to do more than look impressive: retrieve the right evidence, stay robust under noisy inputs, and make their learned spaces interpretable enough to trust.
+I am a Ph.D. candidate at the **University of Luxembourg**, researching **multimodal machine learning** with a focus on representation alignment, image-text retrieval, and composed image retrieval.
+
+I study how vision and language models learn shared representations, retrieve relevant information, and remain robust under noisy inputs, with an emphasis on understanding their learned embedding spaces.
 
 [![Website](https://img.shields.io/badge/Website-StevenXuf.github.io-1f6feb?style=flat-square)](https://StevenXuf.github.io)
 [![Email](https://img.shields.io/badge/Email-fan.xu%40uni.lu-d73a49?style=flat-square)](mailto:fan.xu@uni.lu)
@@ -36,7 +36,7 @@ I like research questions where vision and language models have to do more than 
 ## Current Academic Life
 
 - Ph.D. candidate in Multimodal Machine Learning, Department of Computer Science, University of Luxembourg.
-- Teaching assistant for **Human-Computer Interaction**.
+- Teaching assistant for **Human-Computer Interaction** and **Introduction to Deep Learning**.
 - Reviewer for venues including **SIGIR**, **CIKM**, **ECIR**, **ICLR**, and **WWW**.
 - Recent research visits and schools include the University of Trento, University of Amsterdam, Aalto University, and University of Cambridge.
 
@@ -63,4 +63,4 @@ Chinese (native) · English (C2) · German (B1) · Japanese (N2)
 
 ---
 
-I am always happy to hear from people working on multimodal learning, retrieval, robustness, or computational approaches to cultural collections.
+I am always happy to hear from people working on multimodal learning, retrieval, representation learning, and large language models.
