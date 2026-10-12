@@ -35,10 +35,10 @@ I study how vision and language models learn shared representations, retrieve re
 
 ## Current Academic Life
 
-- Ph.D. candidate in Multimodal Machine Learning, Department of Computer Science, University of Luxembourg.
+- Ph.D. candidate in Multimodal Machine Learning, **Department of Computer Science**, **University of Luxembourg**.
 - Teaching assistant for **Human-Computer Interaction** and **Introduction to Deep Learning**.
 - Reviewer for venues including **SIGIR**, **CIKM**, **ECIR**, **ICLR**, and **WWW**.
-- Recent research visits and schools include the University of Trento, University of Amsterdam, Aalto University, and University of Cambridge.
+- Recent research visits and schools include the **University of Trento**, **University of Amsterdam**, **Aalto University**, and **University of Cambridge**.
 
 ## Background
 
