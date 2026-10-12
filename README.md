@@ -1,6 +1,6 @@
 # Hi, I'm Fan Xu
 
-<img align="right" src="assets/fan-xu.jpg" width="160" alt="Fan Xu" />
+<img align="right" src="assets/fan-xu.jpg" width="120" alt="Fan Xu" />
 
 I am a Ph.D. candidate at the **University of Luxembourg**, researching **multimodal machine learning** with a focus on representation alignment, image-text retrieval, and composed image retrieval.
 
