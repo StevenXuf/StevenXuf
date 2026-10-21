@@ -7,7 +7,6 @@ I am a Ph.D. candidate at the **University of Luxembourg**, researching **multim
 I study how vision and language models learn shared representations, retrieve relevant information, and remain robust under noisy inputs, with an emphasis on understanding their learned embedding spaces.
 
 [![Website](https://img.shields.io/badge/Website-StevenXuf.github.io-1f6feb?style=flat-square)](https://StevenXuf.github.io)
-[![Email](https://img.shields.io/badge/Email-fan.xu%40uni.lu-d73a49?style=flat-square)](mailto:fan.xu@uni.lu)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-XriE7ZsAAAAJ-4285f4?style=flat-square)](https://scholar.google.com/citations?user=XriE7ZsAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--6246--267X-a6ce39?style=flat-square)](https://orcid.org/0009-0008-6246-267X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fan%20Xu-0a66c2?style=flat-square)](https://www.linkedin.com/in/fan-xu-737610243)
